@@ -88,8 +88,6 @@ divided) by 1 remains unchanged. For example, the quantity:
 
 ## Page 3
 
-PE Mechanical — Thermal and Fluid Systems Study Problems www.slaythepe.com
-
 is a ratio of two quantities that are identical, so it is equal to 1. Likewise, quantities such as:
 
 12 in / 1 ft, 7.481 gal / 1 ft³, 6.895 kPa / 1 psi, 448.83 gpm / 1 ft³/s
