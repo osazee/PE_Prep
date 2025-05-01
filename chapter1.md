@@ -11,9 +11,13 @@ Two sets of units are in common use today: the United States Customary System (U
 
 In SI, the units of mass, length, and time are the kilogram (kg), meter (m), and second (s), respectively. The respective units in the USCS are the pound-mass (lbm), foot (ft), and second (s). The force unit in SI is the newton (N), and it is defined as the force required to accelerate a mass of 1 kg at a rate of 1 m/s². In the USCS, the force unit is the pound-force (lbf) and is defined as the force required to accelerate a mass of 32.174 lbm (1 slug) at a rate of 1 ft/s². That is:
 
-\[ 1 \, \text{N} = 1 \, \text{kg} \cdot \frac{\text{m}}{\text{s}^2} \]
+<p align="center">
+1 N = 1 kg · m/s²
+</p>
 
-\[ 1 \, \text{lbf} = 32.174 \, \text{lbm} \cdot \frac{\text{ft}}{\text{s}^2} \]
+<p align="center">
+1 lbf = 32.174 lbm · ft/s²
+</p>
 
 [^1]: The others are electric current, luminous intensity, plane angle, solid angle, and amount of substance.
 [^2]: The USCS is practically the same as the English System and the Imperial System.
