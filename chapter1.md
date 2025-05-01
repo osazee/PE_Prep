@@ -1,11 +1,4 @@
-
-## Page 1
-
-
-
-PART I: THERMODYNAMICS & ENERGY BALANCES
-
-Mass and Volumetric Flow Rates
+## Mass and Volumetric Flow Rates
 
 Units, Dimensions, and Dimensional Homogeneity
 
